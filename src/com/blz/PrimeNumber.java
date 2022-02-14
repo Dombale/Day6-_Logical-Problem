@@ -22,5 +22,4 @@ public class PrimeNumber {
 			System.out.println(number + " is Not a Prime Number");
 		}
 	}
-
 }
